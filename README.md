@@ -9,16 +9,23 @@
   -->
 
 
-## About Me
+## About Me / Sobre Mí
 
-I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
+<details>
+<summary>🇬🇧 English</summary>
+<br>
+I am a <strong>Full-Stack Web Developer</strong> with a passion for creating complete digital experiences. My unique profile combines technical development with a deep understanding of digital marketing (<strong>SEO Specialist & Trafficker</strong>) and user-centered design (<strong>UX/UI</strong>).
+<br><br>
+I enjoy building solutions that not only work perfectly, but are also visible, engaging, and achieve their business goals. I'm always striving for personal growth and thrive in collaborative team environments.
+</details>
 
-🌿 Trying to become a better person every day.
-</br>
-⌛ I enjoy personal development and productivity.
-</br>
-🫂 I enjoy working in teams and collaborating with other people.
-</br>
+<details>
+<summary>🇪🇸 Español</summary>
+<br>
+Soy un <strong>Desarrollador Web Full-Stack</strong> apasionado por crear experiencias digitales completas. Mi perfil único combina el desarrollo técnico con una profunda comprensión del marketing digital (<strong>Especialista SEO y Traficker</strong>) y el diseño centrado en el usuario (<strong>UX/UI</strong>).
+<br><br>
+Disfruto construyendo soluciones que no solo funcionan a la perfección, sino que también son visibles, atractivas y alcanzan sus objetivos de negocio. Busco constantemente el crecimiento personal y me desenvuelvo muy bien en equipos colaborativos.
+</details>
 
 ## Technologies:
 
