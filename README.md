@@ -30,6 +30,12 @@ Disfruto construyendo soluciones que no solo funcionan a la perfección, sino qu
 ## Technologies:
 
 <div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,mysql,shopify,react,git,figma,ai,google,linux,meta,vite" />
+  </a>
+</div>
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
