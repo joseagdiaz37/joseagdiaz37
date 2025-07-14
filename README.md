@@ -27,52 +27,51 @@ Soy un <strong>Desarrollador Web Full-Stack</strong> apasionado por crear experi
 Disfruto construyendo soluciones que no solo funcionan a la perfección, sino que también son visibles, atractivas y alcanzan sus objetivos de negocio. Busco constantemente el crecimiento personal y me desenvuelvo muy bien en equipos colaborativos.
 </details>
 
-## Technologies:
+## Technologies / Tecnologías
 
+### Frontend
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,mysql,shopify,react,git,figma,ai,google,linux,meta,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,shopify" />
   </a>
 </div>
 
+### Backend & Databases
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres,wordpress" />
+  </a>
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  </a>
+</div>
+
+### Design (UX / UI)
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+  </a>
+</div>
+
+### SEO, Marketing & Analytics
+<div align="left">
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tag_Manager-4285F4?style=for-the-badge&logo=googletagmanager&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Meta_Ads-0064E0?style=for-the-badge&logo=meta&logoColor=white" />
+    <img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" />
+  </a>
+</div>
+
+### Development Tools & Others
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  </a>
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/badge/API-Rest-lightgrey?style=for-the-badge" />
+  </a>
 </div>
 
 ## My Latest Blog Post
