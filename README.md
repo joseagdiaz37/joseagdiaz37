@@ -1,7 +1,7 @@
 # Welcome, I'm José Gutiérrez 👋
 
 ### Web Developer
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=joseagdiaz37&theme=dark&hide_border=true)](https://git.io/streak-stats)
  <!-- <img src="https://raw.githubusercontent.com/INGCapaDev/INGCapaDev/output/snake.svg" alt="Snake animation" />
   
   #### 🏆 GitHub Trophies
